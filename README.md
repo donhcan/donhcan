@@ -24,7 +24,7 @@
  
 <br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RisingStar-Web&bg_color=000000&color=ff00ff&line=ff00ff&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ryo-ma&bg_color=000000&color=ff00ff&line=ff00ff&point=ffffff&area=true&hide_border=true) 
 
 <br />
 
