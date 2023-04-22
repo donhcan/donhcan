@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://github.com/donhcan/donhcan" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_title=true" alt="Gladiator's GitHub Stats" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_title=true" alt="Gladiator's GitHub Stats" height="180px"/>
   </a>
   
  </p>
