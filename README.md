@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/donhcan/donhcan" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=RisingStar-Web&show=JavaScript,TypeScript,Solidity&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=ryo-ma&show=JavaScript,TypeScript,Solidity&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
   </a>
   
   <a href="https://github.com/donhcan/donhcan" >
